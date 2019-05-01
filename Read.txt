@@ -1,1 +1,11 @@
-Hi, this is a Tensorflow program for Neural network
+Hi, this is a Tensorflow program for  Deep Learning Neural network
+
+Creating a model that will differentiate between a rock and a mine using TensorFlow.
+
+Approach: apply TensorFlow for backpropagation to tune the weights and biases while the Neural Networks are being trained
+
+Why Learn Deep Learning With TensorFlow? 
+
+TensorFlow is one of the best libraries to implement Deep Learning. TensorFlow is a software library for numerical computation of mathematical expressions, using data flow graphs. Nodes in the graph represent mathematical operations, while the edges represent the multidimensional data arrays (tensors) that flow between them. It was created by Google and tailored for Machine Learning. In fact, it is being widely used to develop solutions with Deep Learning. 
+
+Machine learning is one of the fastest-growing and most exciting fields out there, and Deep Learning represents its true bleeding edge. Deep learning is primarily a study of multi-layered neural networks, spanning over a vast range of model architectures. Traditional neural networks relied on shallow nets, composed of one input, one hidden layer and one output layer. Deep-learning networks are distinguished from these ordinary neural networks having more hidden layers, or so-called more depth. These kinds of nets are capable of discovering hidden structures within unlabeled and unstructured data (i.e. images, sound, and text), which constitutes the vast majority of data in the world.
